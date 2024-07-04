@@ -3,9 +3,6 @@
 
 Welcome to the JARVIS - PC Assistant project! This repository contains the code and resources for a cutting-edge project developed to enhance user interaction with the computer. This project was developed to create a voice-activated personal assistant using advanced speech recognition and text-to-speech technologies for PC. JARVIS aims to provide a seamless and intuitive solution for performing tasks like opening websites, playing music, and fetching news headlines through simple voice commands.
 
-
-## Introduction
-
 This project leverages advanced speech recognition and text-to-speech technologies to create a voice-activated personal assistant. The primary goal is to streamline everyday computer tasks, making them more efficient and accessible through intuitive voice commands.
 
 ## Features
