@@ -61,7 +61,6 @@ By following these steps, you will have successfully set up and installed a virt
 ## 🛠 Skills
 Python
 
-Logic Building
 
 
 
